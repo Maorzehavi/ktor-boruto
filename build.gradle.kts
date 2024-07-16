@@ -9,7 +9,7 @@ plugins {
     id("org.jetbrains.kotlin.plugin.serialization") version "17"
 }
 
-group = "com.example"
+group = "com.maorzehavi"
 version = "0.0.1"
 application {
     mainClass.set("io.ktor.server.netty.EngineMain")
