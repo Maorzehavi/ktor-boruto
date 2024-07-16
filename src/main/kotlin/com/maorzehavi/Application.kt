@@ -14,5 +14,5 @@ fun Application.module() {
     configureMonitoring()
     configureDefaultHeader()
     configureStatusPages()
-    println("s")
+ 
 }
